@@ -43,8 +43,6 @@ object BukkitBoat {
 
       boat.remove()
     }
-
-    override def hashCode(): Int = boat.getUniqueId.hashCode()
   }
 
 }
