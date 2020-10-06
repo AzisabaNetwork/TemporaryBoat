@@ -1,4 +1,4 @@
-package amata1219.temporary.boat
+package azisaba.life.temporary.boat
 
 import scala.jdk.CollectionConverters._
 import com.google.common.collect.HashBiMap
@@ -20,7 +20,7 @@ object BukkitBoat {
     DARK_OAK_BOAT -> DARK_OAK,
     JUNGLE_BOAT -> JUNGLE,
     OAK_BOAT -> GENERIC,
-    SPRUCE_BOAT -> REDWOOD,
+    SPRUCE_BOAT -> REDWOOD
   ).asJava)
 
   implicit class XBoat(boat: Boat) {

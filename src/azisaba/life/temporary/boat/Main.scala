@@ -1,6 +1,6 @@
-package amata1219.temporary.boat
+package azisaba.life.temporary.boat
 
-import amata1219.temporary.boat.BukkitBoat._
+import BukkitBoat._
 
 import org.bukkit.event.HandlerList
 import org.bukkit.plugin.java.JavaPlugin

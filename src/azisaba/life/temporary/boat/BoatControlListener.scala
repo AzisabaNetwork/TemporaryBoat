@@ -1,6 +1,6 @@
-package amata1219.temporary.boat
+package azisaba.life.temporary.boat
 
-import amata1219.temporary.boat.BukkitBoat._
+import BukkitBoat._
 import org.bukkit.entity.{Boat, EntityType, Player}
 import org.bukkit.event.block.Action
 import org.bukkit.event.entity.EntitySpawnEvent
